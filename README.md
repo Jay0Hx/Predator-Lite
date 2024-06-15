@@ -26,7 +26,6 @@ Predator Lite integrates seamlessly with your existing gaming setup, providing a
 - **Stealth Mode Enhancements**: Predator Lite maintains the essence of the Predator series but with a reduced power output, making it nearly undetectable. Enjoy enhanced performance without the risk of standing out.
 - **Optimized Power Multiplier**: The power multiplier in Predator Lite has been carefully calibrated to provide a noticeable yet discreet performance increase. This ensures that your gameplay remains competitive without raising any suspicion.
 - **User-Friendly Interface**: The intuitive interface of Predator Lite is designed with simplicity in mind, allowing for easy customization and quick adjustments on the fly. Tailor your settings to match your unique racing style effortlessly.
-- **Compatibility and Stability**: Predator Lite is compatible with a wide range of gaming platforms and titles, offering stable and reliable performance across different environments. Whether you're playing on a console or PC, Predator Lite delivers consistent results.
 - **Regular Updates and Support**: Stay ahead of the competition with regular updates that enhance functionality and performance. Our dedicated support team is always ready to assist you with any queries or issues you may encounter.
 
 ## Why Choose Predator Lite?
