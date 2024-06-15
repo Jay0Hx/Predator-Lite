@@ -12,8 +12,4 @@
 </div>
 
 <h1 align="center">❓ What is 'Predator Lite'?</a></h1>
-Nemesis is the new and evolved version of AlienV2 and PredatorV1 from the older versions of CSP. These versions used a floor in the game mechanics to allow the user to manipulate their vehicle settings such as power, turbos, grip and more! Due to this floor being patched post 0.1.79 we have been looking long and hard for an effective alternative. Nemesis is that alternative!
-
-Nemesis is a totally different concept with regards to how we handle the clients vehicle information, instead of using the built in LUA api provided by the respective CSP versions we are not using a DLL injection format using a tailor made DLL to directly handle events and function. This allows us to handle a-lot more information in a smaller and cleaner format.
-
-Nemesis is currently under heavy development and not ready for the public, keep an eye on our discord and this repo for information, news and more! If you would like to suppor the development or you are expierened in creating DLLs for games, please head over to the discord and let us know, we need all the help we can get with this project!
+The last itteration to the 'Predator' lineup. Predator Lite has been designed to remain discreet, offering similar features to the main predator software but with limited values. Predator Lite is targetted towards those drivers who want that slight edge on the rest of the lobby. Where before Predator offered 1000x power multipler, the feedback that we got was that it was hard to remain incognito when using predator, we have now decided the best course of action to address this issue is to create predator lite.
