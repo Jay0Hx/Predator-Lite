@@ -28,6 +28,10 @@ Predator Lite integrates seamlessly with your existing gaming setup, providing a
 - **User-Friendly Interface**: The intuitive interface of Predator Lite is designed with simplicity in mind, allowing for easy customization and quick adjustments on the fly. Tailor your settings to match your unique racing style effortlessly.
 - **Regular Updates and Support**: Stay ahead of the competition with regular updates that enhance functionality and performance. Our dedicated support team is always ready to assist you with any queries or issues you may encounter.
 
+## Current version support:
+
+- The only tested version is **CSP 0.1.79**. We do not provide support for any other version.
+
 ## Why Choose Predator Lite?
 
 The feedback we received from our loyal Predator users was invaluable. While the original Predator provided unparalleled power, many of you expressed a desire for a more subtle option that could be used without drawing attention. Predator Lite is our response to that feedback – a balanced, less conspicuous tool that still offers a competitive edge.
