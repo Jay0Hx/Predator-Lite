@@ -26,11 +26,11 @@ Predator Lite integrates seamlessly with your existing gaming setup, providing a
 - **Stealth Mode Enhancements**: Predator Lite maintains the essence of the Predator series but with a reduced power output, making it nearly undetectable. Enjoy enhanced performance without the risk of standing out.
 - **Optimized Power Multiplier**: The power multiplier in Predator Lite has been carefully calibrated to provide a noticeable yet discreet performance increase. This ensures that your gameplay remains competitive without raising any suspicion.
 - **User-Friendly Interface**: The intuitive interface of Predator Lite is designed with simplicity in mind, allowing for easy customization and quick adjustments on the fly. Tailor your settings to match your unique racing style effortlessly.
-- **Regular Updates and Support**: Stay ahead of the competition with regular updates that enhance functionality and performance. Our dedicated support team is always ready to assist you with any queries or issues you may encounter.
 
 ## Current version support:
 
 - The only tested version is **CSP 0.1.79**. We do not provide support for any other version.
+- Predator Lite will not be maintained for future versions of CSP, we are moving to 'Nemesis'.
 
 ## Why Choose Predator Lite?
 
