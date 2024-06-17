@@ -11,8 +11,6 @@
   </p>
 </div>
 
-<h1 align="center">❓ What is 'Predator Lite'?</a></h1>
-
 # Predator Lite: Elevate Your Game with Subtle Precision
 
 Introducing **Predator Lite**, the latest innovation in our renowned Predator software lineup. Designed for drivers who seek a competitive edge without drawing attention, Predator Lite offers a discreet yet powerful enhancement to your racing experience.
